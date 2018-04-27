@@ -124,9 +124,6 @@ TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/config.fs
 DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/manifest.xml
 DEVICE_MATRIX_FILE := $(DEVICE_PATH)/compatibility_matrix.xml
 
-# Media
-TARGET_USES_MEDIA_EXTENSIONS := true
-
 # Partitions - SAR
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 
