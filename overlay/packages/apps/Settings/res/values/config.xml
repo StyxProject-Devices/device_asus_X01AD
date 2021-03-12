@@ -17,4 +17,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Device specific doze package -->
     <string name="config_customDozePackage">com.asus.doze/com.asus.doze.DozeSettingsActivity</string>
+
+    <!-- Smart Charging enable -->
+    <bool name="config_supportSmartCharging">true</bool>
+
 </resources>
