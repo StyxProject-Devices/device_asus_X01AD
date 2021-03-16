@@ -344,6 +344,11 @@ PRODUCT_PACKAGES += \
     libOmxVenc \
     libstagefrighthw
 
+# Soong namespaces
+PRODUCT_SOONG_NAMESPACES += \
+	packages/apps/Bluetooth \
+    $(LOCAL_PATH)
+
 # Power
 PRODUCT_PACKAGES += \
     android.hardware.power-service-qti \
