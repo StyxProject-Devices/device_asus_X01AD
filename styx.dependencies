@@ -1,17 +1,14 @@
 [
   {
     "repository": "device_asus_X01AD",
-    "target_path": "device/asus/X01AD",
-    "branch": "R"	
+    "target_path": "device/asus/X01AD"
   },
   {
     "repository":  "kernel_asus_X01AD",
-    "target_path": "kernel/asus/X01AD",
-    "branch": "R"
+    "target_path": "kernel/asus/X01AD"
   },
   {
     "repository":  "vendor_asus_X01AD",
-    "target_path": "vendor/asus/X01AD",
-    "branch": "R"
+    "target_path": "vendor/asus/X01AD"
   }
 ]
