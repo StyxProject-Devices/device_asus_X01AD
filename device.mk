@@ -287,7 +287,7 @@ PRODUCT_PACKAGES += \
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
-	packages/apps/bluetooth \
+	packages/apps/Bluetooth \
     $(LOCAL_PATH)
 
 # Permissions
