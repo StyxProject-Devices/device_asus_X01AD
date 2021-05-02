@@ -1,13 +1,18 @@
 [
   {
-    "repository":  "kernel_asus_X01AD",
-    "target_path": "kernel/asus/X01AD",
-    "branch": "eleven"
+    "repository": "device_asus_X01AD",
+    "target_path": "device/asus/X01AD"
   },
   {
-    "repository":  "vendor_asus_x01ad",
-    "target_path": "vendor/asus/X01AD",
-    "branch": "eleven",
-    "remote": "pixel-devices-blobs"
+    "repository":  "kernel_asus_X01AD",
+    "target_path": "kernel/asus/X01AD"
+  },
+  {
+    "repository":  "vendor_asus_X01AD",
+    "target_path": "vendor/asus/X01AD"
+  },
+  {
+    "repository":  "android_packages_apps_GCamGOPrebuilt",
+    "target_path": "packages/apps/GcamGOPrebuilt"
   }
 ]
