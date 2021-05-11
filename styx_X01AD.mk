@@ -30,8 +30,6 @@ TARGET_GAPPS_ARCH := arm64
 
 #STYX PROPERTIES
 STYX_BUILD_VARIANT := OFFICIAL
-PRODUCT_PRODUCT_PROPERTIES += \
-    org.styxproject.maintainer=AP-XD
 	
 # Inherit device stuff
 $(call inherit-product, $(DEVICE_PATH)/device.mk)
