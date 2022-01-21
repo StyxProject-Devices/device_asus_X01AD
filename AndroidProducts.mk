@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_X01AD.mk
+    $(LOCAL_DIR)/styx_X01AD.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_X01AD-user \
-    arrow_X01AD-userdebug \
-    arrow_X01AD-eng
+    styx_X01AD-user \
+    styx_X01AD-userdebug \
+    styx_X01AD-eng
